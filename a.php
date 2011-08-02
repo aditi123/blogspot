@@ -208,4 +208,4 @@ echo "</table>";
 echo "<INPUT TYPE=SUBMIT name=SUBMIT VALUE=ENTER onClick='check()'>";
 
 echo "</FORM>";
- 
+ ?>
